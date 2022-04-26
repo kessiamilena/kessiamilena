@@ -6,7 +6,6 @@ Sou iniciante em tecnologia e quero me tornar uma desenvolvedora FrontEnd! 😄
 -->
 
 - 🌱 Estou aprendendo desenvolvimento FullStack e estou amando o FrontEnd.
-- 👯 Amo cores e design...
-- 📫 kessia.milena124@yahoo.com
-- ⚡ Amo músicas, séries e crianças!
-
+- ⚡ Amo cores e amo criar design...
+- 💕 Amo músicas, séries e crianças!
+- 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/
