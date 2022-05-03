@@ -1,9 +1,9 @@
 ### Olá 👋 Sou a Késsia...
 
-Sou iniciante em tecnologia 😄
+Sou estudante de Engenharia da Computação 😄
 
 
-- 🌱 Estou aprendendo desenvolvimento FullStack e estou amando o FrontEnd.
-- ⚡ Amo cores e amo criar design...
+- 🌱 Atualmente estou estudando desenvolvimento FullStack e estou amando o FrontEnd. Estou fazendo alguns projetos, aprendendo muito e me divertindo ao mesmo tempo!
+- ⚡ Sou nova na área de tecnologia e atualmente trabalho como Trainee Analista de BI. 
 - 💕 Amo músicas, séries e crianças!
 - 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/
