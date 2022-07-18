@@ -1,6 +1,6 @@
 ### Olá 👋 Sou a Késsia...
 
-Sou estudante de Engenharia da Computação 😄
+Formada em Engenharia da Computação 😄
 
 
 - 🌱 Atualmente estou estudando desenvolvimento FullStack e estou amando o FrontEnd. Estou fazendo alguns projetos, aprendendo muito e me divertindo ao mesmo tempo!
