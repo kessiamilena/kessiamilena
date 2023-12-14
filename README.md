@@ -1,7 +1,14 @@
 ### <h2 align="left">Olá 👋 Sou a Késsia Milena 😎</h2>
 
 # 💫 About Me:
-Formada em Engenharia da Computação 😄<br><br>💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.<br><br>- ⚡ Sou nova na área de desenvolvimento, trabalhei como Trainee Analista de BI e um tempo programando em Java (Refatoração de código e Migração de API).<br>- 👯 Estou colaborando no projeto (https://github.com/IntegraDash/API-Integradash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde estamos criando uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).<br>- 👩🏽‍💻 Desenvolvi algumas aplicações durante o curso do SENAI que podem ser encontradas aqui!<br>- 💕 Amo músicas, séries e crianças!<br>- 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/<br>
+# Formada em Engenharia da Computação 😄<br><br>
+# 💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.<br><br>
+
+- ⚡ Sou nova na área de desenvolvimento, trabalhei como Trainee Analista de BI e um tempo programando em Java (Refatoração de código e Migração de API).<br>
+- 👯 Estou colaborando no projeto (https://github.com/IntegraDash/API-Integradash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde estamos criando uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).<br>
+- 👩🏽‍💻 Desenvolvi algumas aplicações durante o curso do SENAI que podem ser encontradas aqui!<br>
+- 💕 Amo músicas, séries e crianças!<br>
+- 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/<br>
 
 
 ## 🌐 Socials:
