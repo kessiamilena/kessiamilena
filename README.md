@@ -1,4 +1,4 @@
-<h1>Olá 👋 Sou a Késsia Milena 😎</h1>
+Olá 👋 Sou a Késsia Milena 😎 <br>
 
 Formada em Engenharia da Computação 😄<br><br>
 
@@ -8,7 +8,7 @@ Formada em Engenharia da Computação 😄<br><br>
 - 👯 Estou colaborando no projeto (https://github.com/IntegraDash/API-Integradash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde estamos criando uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).<br>
 - 👩🏽‍💻 Desenvolvi algumas aplicações durante o curso do SENAI que podem ser encontradas aqui!<br>
 - 💕 Amo músicas, séries e crianças!<br>
-- 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/<br>
+- 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/<br><br>
 
 
 ## 🌐 Socials:
