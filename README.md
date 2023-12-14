@@ -1,6 +1,6 @@
 ### <h2 align="left">Olá 👋 Sou a Késsia Milena 😎</h2>
 
-# 💫 About Me:
+
 # Formada em Engenharia da Computação 😄<br><br>
 # 💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.<br><br>
 
@@ -22,7 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kessiamilena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
