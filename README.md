@@ -1,9 +1,12 @@
 ### <h2 align="left">Olá 👋 Sou a Késsia Milena 😎</h2>
 
 Formada em Engenharia da Computação 😄
+###
 
+<p>💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.</p>
 
-- 💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.  
+###
+
 - ⚡ Sou nova na área de desenvolvimento, trabalhei como Trainee Analista de BI e um tempo programando em Java (Refatoração de código e Migração de API).
 - 👯 Estou colaborando no projeto [![portfolio](https://img.shields.io/badge/my_page-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/IntegraDash/API-Integradash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde estamos criando uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).
 - 👩🏽‍💻 Desenvolvi algumas aplicações durante o curso do SENAI que podem ser encontradas aqui!
