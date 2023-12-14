@@ -1,9 +1,8 @@
 ### <h2 align="left">Olá 👋 Sou a Késsia Milena 😎</h2>
 
-Formada em Engenharia da Computação 😄
-###
+### Formada em Engenharia da Computação 😄
 
-<p>💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.</p>
+### <p>💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.</p>
 
 ###
 
@@ -76,6 +75,6 @@ Formada em Engenharia da Computação 😄
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kessiamilena/kessiamilena/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kessiamilena/kessiamilena/snake.svg" alt="Snake animation" />
 
 ###
