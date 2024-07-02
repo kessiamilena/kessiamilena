@@ -1,10 +1,11 @@
 <h1>Olá 👋 Sou a Késsia Milena 😎</h1><br> 
   🎓 Formada em Engenharia da Computação 😄<br>
+  💻 Dev FullStack e Instrutora no SENAI 🚀<br>
 
-## <h3> 💻 Atualmente estou estudando Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen.</h3><br><br>
+## <h3> 💻 Participei do curso de Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen em 2022/2023.</h3><br><br>
 
-- ⚡ Sou nova na área de desenvolvimento, trabalhei como Trainee Analista de BI e um tempo programando em Java (Refatoração de código e Migração de API).<br>
-- 👯 Estou colaborando no projeto (https://github.com/IntegraDash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde estamos criando uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).<br>
+- ⚡ Trabalhei como Trainee Analista de BI e um tempo programando em Java (Refatoração de código e Migração de API).<br>
+- 👯 Colaborei no projeto (https://github.com/IntegraDash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde criamos uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).<br>
 - 👩🏽‍💻 Desenvolvi algumas aplicações durante o curso do SENAI que podem ser encontradas aqui!<br>
 - 💕 Amo músicas, séries e crianças!<br>
 - 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/<br><br>
