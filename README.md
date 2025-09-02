@@ -1,6 +1,7 @@
 <h1>Olá 👋 Sou a Késsia Milena 😎</h1><br> 
   🎓 Formada em Engenharia da Computação 😄<br>
   💻 Dev FullStack e Instrutora no SENAI 🚀<br>
+  🤖 Pós-graduanda em Inteligência Artificial 🧠<br>
 
 ## <h3> 💻 Participei do curso de Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen em 2022/2023.</h3><br><br>
 
