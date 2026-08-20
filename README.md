@@ -66,15 +66,19 @@ Atualmente, atuo na formação de novos profissionais de tecnologia, compartilha
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kessiamilena&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiamilena&layout=compact&theme=tokyonight&hide_border=true">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kessiamilena&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=kessiamilena&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub">
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kessiamilena&theme=dark&hide_border=false" alt="Sequência de contribuições">
+  
+  <br><br>
+
 </div>
 
 ## 🏅 Certificação e badges
