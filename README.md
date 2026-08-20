@@ -1,33 +1,90 @@
-<h1>Olá 👋 Sou a Késsia Milena 😎</h1><br> 
-  🎓 Formada em Engenharia da Computação 😄<br>
-  💻 Dev FullStack e Instrutora no SENAI 🚀<br>
-  🤖 Pós-graduanda em Inteligência Artificial 🧠<br>
+<h1 align="center">Olá! Eu sou a Késsia Milena 👋</h1>
 
-## <h3> 💻 Participei do curso de Desenvolvimento Full Stack + Kotlin e Java para aplicativos móveis, no programa CO.DE School: Academia de Programação e Desenvolvimento da escola SENAI de Informática com parceria da Fundação Grupo Volkswagen em 2022/2023.</h3><br><br>
+<p align="center">
+  Desenvolvedora Full Stack • Instrutora no SENAI • Entusiasta de IA e Computação Quântica
+</p>
 
-- ⚡ Trabalhei como Trainee Analista de BI e um tempo programando em Java (Refatoração de código e Migração de API).<br>
-- 👯 Colaborei no projeto (https://github.com/IntegraDash), que faz parte do curso do SENAI em parceria com a Volkswagen, onde criamos uma solução para integração de dois dashboards. (Case criado pelos nossos mentores da Volks).<br>
-- 👩🏽‍💻 Desenvolvi algumas aplicações durante o curso do SENAI que podem ser encontradas aqui!<br>
-- 💕 Amo músicas, séries e crianças!<br>
-- 🙋 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/kessiammachado/<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kessiammachado/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
+## 👩🏽‍💻 Sobre mim
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kessiammachado) 
+- 🎓 Formada em **Engenharia da Computação**;
+- 💻 Desenvolvedora **Full Stack**;
+- 👩🏽‍🏫 Instrutora de Formação Profissional no **SENAI de Informática**;
+- 🤖 Pós-graduanda em **Inteligência Artificial**;
+- ⚛️ Pós-graduanda em **Computação Quântica**;
+- 📚 Apaixonada por tecnologia, educação e desenvolvimento de projetos;
+- 🎵 Nas horas vagas, amo músicas, séries e estar com crianças.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-<br><br>
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kessiamilena&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kessiamilena&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kessiamilena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Minha trajetória
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+Participei do curso de **Desenvolvimento Full Stack com Kotlin e Java para aplicativos móveis**, realizado pelo programa **CO.DE School – Academia de Programação e Desenvolvimento**, uma parceria entre o SENAI de Informática e a Fundação Grupo Volkswagen, durante os anos de 2022 e 2023.
+
+Também atuei como **Trainee Analista de Business Intelligence**, utilizando o **Oracle SQL Developer** para consultar e analisar dados. Nesse período, trabalhei na transformação dos dados brutos da empresa em informações úteis, contribuindo para a geração de insights e para a tomada de decisões.
+
+Além disso, trabalhei com desenvolvimento em **Java**, realizando atividades de refatoração de código e migração de APIs.
+
+Colaborei no projeto [IntegraDash](https://github.com/IntegraDash), no qual desenvolvemos uma solução para integrar dois dashboards a partir de um desafio proposto por mentores da Volkswagen.
+
+Atualmente, atuo na formação de novos profissionais de tecnologia, compartilhando conhecimentos sobre desenvolvimento de software, banco de dados, interfaces e aplicações web e mobile.
+
+## 🛠️ Tecnologias e ferramentas
+
+### Desenvolvimento
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Back-end e banco de dados
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Design e produtividade
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kessiamilena&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiamilena&layout=compact&theme=tokyonight&hide_border=true">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kessiamilena&theme=tokyonight&hide_border=true">
+</div>
+
+## 📫 Entre em contato
+
+Quer conversar sobre tecnologia, educação ou desenvolvimento de software?
+
+🌐 [LinkedIn](https://www.linkedin.com/in/kessiammachado/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kessiamilena&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  💙 Transformando ideias em soluções por meio da tecnologia, dos dados e da inovação.
+</p>
