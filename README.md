@@ -84,7 +84,7 @@ Atualmente, atuo na formação de novos profissionais de tecnologia, compartilha
 Possuo a certificação **Microsoft Azure AI Fundamentals (AI-900)**, que valida conhecimentos fundamentais sobre inteligência artificial e os serviços de IA do Microsoft Azure, incluindo aprendizado de máquina, visão computacional, processamento de linguagem natural e IA generativa.
 
 <p>
-  <a href="[https://www.credly.com/badges/8b59c8f7-0ee9-4d2a-9a3f-f0a067abdb94]">
+  <a href="https://www.credly.com/badges/8b59c8f7-0ee9-4d2a-9a3f-f0a067abdb94">
     <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AI Fundamentals AI-900">
   </a>
 </p>
