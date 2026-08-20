@@ -77,6 +77,28 @@ Atualmente, atuo na formação de novos profissionais de tecnologia, compartilha
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kessiamilena&theme=tokyonight&hide_border=true">
 </div>
 
+## 🏅 Certificação e badges
+
+### 🤖 Microsoft Certified: Azure AI Fundamentals — AI-900
+
+Possuo a certificação **Microsoft Azure AI Fundamentals (AI-900)**, que valida conhecimentos fundamentais sobre inteligência artificial e os serviços de IA do Microsoft Azure, incluindo aprendizado de máquina, visão computacional, processamento de linguagem natural e IA generativa.
+
+<p>
+  <a href="[https://www.credly.com/badges/8b59c8f7-0ee9-4d2a-9a3f-f0a067abdb94]">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AI Fundamentals AI-900">
+  </a>
+</p>
+
+### 🎖️ Badges digitais
+
+Também possuo badges que representam cursos, capacitações e competências desenvolvidas ao longo da minha trajetória profissional.
+
+<p>
+  <a href="https://www.credly.com/users/kessia-milena/badges/credly">
+    <img src="https://img.shields.io/badge/Ver%20meus%20badges-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Perfil no Credly">
+  </a>
+</p>
+
 ## 📫 Entre em contato
 
 Quer conversar sobre tecnologia, educação ou desenvolvimento de software?
